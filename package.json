@@ -1,0 +1,22 @@
+{
+  "name": "balance-checker",
+  "version": "1.0.0",
+  "description": "check balance of crypto",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemingwayLee/balance-checker.git"
+  },
+  "author": "ywlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemingwayLee/balance-checker/issues"
+  },
+  "homepage": "https://github.com/HemingwayLee/balance-checker#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
